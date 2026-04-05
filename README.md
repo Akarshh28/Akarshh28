@@ -33,12 +33,11 @@
 ### 📊 Data Analytics
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌐 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-<!-- Add more skills later like C++, ML, etc. -->
 
 ---
 
@@ -98,9 +97,7 @@
 <!-- ======================== CONNECT ======================== -->
 ## 🌐 Connect With Me
 
-<!-- Replace links below -->
-
-- 💼 LinkedIn: [(https://www.linkedin.com/in/akarsh-pandey-0bb6a6301/)]
+- 💼 LinkedIn: (https://www.linkedin.com/in/akarsh-pandey-0bb6a6301/)
 - 📧 Email: [akarshpandey2815@gmail.com]
 - 🌐 Portfolio: [Your Portfolio Link]
 
