@@ -19,7 +19,7 @@
 - 🚀 Goal: To become a **placement-ready developer & data professional**
 
 <!-- Edit this section to add achievements later -->
-- 🏆 *Add your achievements here (internships, hackathons, etc.)*
+<!-- *🏆 Add your achievements here (internships, hackathons, etc.)*
 
 ---
 
