@@ -4,7 +4,7 @@
 
 <!-- Optional Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=ECE+Student+at+BIET+Jhansi;Learning+Data+Analytics+%26+ML;Aspiring+Software+Engineer;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=B.Tech+ECE+Student+at+BIET+Jhansi;Project+Intern+at+C3iHub,+IIT+Kanpur;AI+%7C+Machine+Learning+%7C+Firmware+Security;Computer+Vision+%7C+Embedded+Systems;Always+Learning,+Always+Building&center=true&width=700&height=45">
 </p>
 
 ---
