@@ -1,6 +1,6 @@
 <!-- ======================== HEADER ======================== -->
 <h1 align="center">Hi 👋, I'm Akarsh Pandey</h1>
-<h3 align="center">ECE Student | Aspiring SDE & Data Analyst | Tech Enthusiast</h3>
+<h3 align="center">ECE Student | Aspiring AI/ML Engineer | Tech Enthusiast</h3>
 
 <!-- Optional Typing Animation -->
 <p align="center">
@@ -13,53 +13,66 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech in **Electronics & Communication Engineering (ECE)** at **BIET Jhansi**
-- 📊 Currently learning **Data Analytics & Machine Learning**
-- 💻 Exploring **Software Development (SDE roles)**
-- 📈 Building skills in **Python, Data Analysis & Problem Solving**
-- 🚀 Goal: To become a **placement-ready developer & data professional**
-
-<!-- Edit this section to add achievements later -->
-<!-- *🏆 Add your achievements here (internships, hackathons, etc.)*
+- 💼 Project Intern at **C3iHub, IIT Kanpur**
+- 🔬 Working on **Automated Firmware Analysis on DLMS/COSEM Protocol** for Advanced Metering Infrastructure (AMI)
+- 🤖 Interested in Machine Learning, Computer Vision, Cybersecurity and Embedded Systems
+- 📚 Currently learning Data Structures & Algorithms and Deep Learning
+- 🌱 Always open to learning new technologies and collaborating on impactful projects
 
 ---
 
 <!-- ======================== SKILLS ======================== -->
 ## 🛠️ Skills & Technologies
 
-### 💻 Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+### Languages
 
-### 📊 Data Analytics
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- Python
+- C
 
-### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Machine Learning
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+### Computer Vision
+
+- OpenCV
+- MediaPipe
+
+### Databases
+
+- MySQL
+
+### Developer Tools
+
+- VS Code
+- Jupyter Notebook
+- Git
+- GitHub
 
 ---
 
 <!-- ======================== PROJECTS ======================== -->
 ## 🚀 Projects
 
-<!-- Replace these placeholders with your actual projects -->
+### 🤖 AI-Based Hand Gesture Controlled Robotic Car
 
-### 🔹 Project 1: [Project Name]
-- 📌 Description: *Brief description of your project*
-- 🛠️ Tech Stack: *Python / ML / Web etc.*
-- 🔗 GitHub: [Link]
+Computer Vision project using OpenCV and MediaPipe to control an Arduino-powered robotic car through real-time hand gesture recognition.
 
-### 🔹 Project 2: [Project Name]
-- 📌 Description: *Brief description*
-- 🛠️ Tech Stack:
-- 🔗 GitHub: [Link]
+---
 
-### 🔹 Project 3: [Project Name]
-- 📌 Description:
-- 🛠️ Tech Stack:
-- 🔗 GitHub: [Link]
+### 📊 Machine Learning Model Comparison on World Happiness Dataset
+
+Compared Linear Regression and Random Forest using multiple regression metrics to analyze predictive performance on real-world data.
+
+---
+
+### 🔐 Automated Firmware Analysis on DLMS/COSEM Protocol
+
+Research internship project at C3iHub, IIT Kanpur focusing on firmware security analysis for smart meters used in Advanced Metering Infrastructure.
+
 
 ---
 
@@ -76,21 +89,20 @@
 <!-- ======================== CURRENTLY LEARNING ======================== -->
 ## 📚 Currently Learning
 
-- 📊 Data Analytics (Pandas, NumPy, Visualization)
-- 🤖 Machine Learning (Basics → Advanced)
-- 💡 Problem Solving & DSA (for placements)
-- 🌐 Exploring Web Development
+- Data Structures & Algorithms
+- Deep Learning
+- Firmware Reverse Engineering
+- Malware Analysis
+- Smart Meter Cybersecurity
+- Symbolic Execution & Fuzzing
 
 ---
 
 <!-- ======================== FUTURE GOALS ======================== -->
 ## 🎯 Future Goals
 
-- ✅ Become **placement-ready for SDE/Data roles**
-- 📈 Build **strong GitHub portfolio with real-world projects**
-- 🧠 Master **DSA & Problem Solving**
-- 🤝 Contribute to **Open Source Projects**
-- 🚀 Crack top tech company placements
+To become an AI Engineer working at the intersection of Artificial Intelligence, Cybersecurity, and Embedded Systems, building secure and intelligent solutions for real-world infrastructure.
+
 
 ---
 
