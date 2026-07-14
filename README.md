@@ -111,7 +111,7 @@ To become an AI Engineer working at the intersection of Artificial Intelligence,
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/akarsh-pandey-0bb6a6301/)
 - 📧 Email: [akarshpandey2815@gmail.com]
-- 🌐 Portfolio: [Your Portfolio Link]
+- 🌐 Portfolio: [(https://portfolio-ten-azure-11.vercel.app)]
 
 ---
 
